@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+*.h5
+.DS_Store
+data/
+models/

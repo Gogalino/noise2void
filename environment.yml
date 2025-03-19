@@ -1,0 +1,8 @@
+name: noise2void_env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+prefix: C:\Users\sadfr\miniconda3\envs\noise2void_env
